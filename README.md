@@ -1,4 +1,4 @@
-# Paper-Study
+# Fast Path
 
 ## Content
 - [Format Reference](https://github.com/tigerneil/awesome-deep-rl/edit/master/README.md)
