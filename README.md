@@ -1,7 +1,7 @@
 # Paper-Study
 
 ## Content
-- [Audio Scene Classification](#Audio Scene Classification)
+- [Audio Scene Classification](#audio-scene-classification)
 - [Online Audio to Lyric Alignment](#Online Audio to Lyric Alignment)
 
 
