@@ -2,7 +2,7 @@
 
 ## Content
 - [Audio Scene Classification](#audio-scene-classification)
-- [Online Audio to Lyric Alignment](#Online Audio to Lyric Alignment)
+- [Online Audio to Lyric Alignment](#online-audio-to-lyric-alignment)
 
 
 ## Audio Scene Classification
