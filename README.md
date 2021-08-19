@@ -9,9 +9,9 @@
 ## Music Generation
 * Conditional Generative Adversarial Nets [arxiv](https://arxiv.org/pdf/1411.1784.pdf)| [code]()
 * MuseGAN:
-*        MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS [paper](https://salu133445.github.io/musegan/pdf/musegan-ismir2017-lbd-paper.pdf)
-*        MuseGAN: Multi-Track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment [paper](https://salu133445.github.io/musegan/pdf/musegan-aaai2018-paper.pdf) | [code](https://github.com/salu133445/musegan)
-*        CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS WITH BINARY NEURONS FOR POLYPHONIC MUSIC GENERATION [paper](https://salu133445.github.io/bmusegan/pdf/bmusegan-ismir2018-paper.pdf) | [code](https://github.com/salu133445/bmusegan)
+* MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS [paper](https://salu133445.github.io/musegan/pdf/musegan-ismir2017-lbd-paper.pdf)
+* MuseGAN: Multi-Track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment [paper](https://salu133445.github.io/musegan/pdf/musegan-aaai2018-paper.pdf) | [code](https://github.com/salu133445/musegan)
+* CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS WITH BINARY NEURONS FOR POLYPHONIC MUSIC GENERATION [paper](https://salu133445.github.io/bmusegan/pdf/bmusegan-ismir2018-paper.pdf) | [code](https://github.com/salu133445/bmusegan)
 * Lead sheet generation and arrangement by conditional generative adversarial network [arxiv](https://arxiv.org/pdf/1807.11161.pdf)
 * Lead Sheet Generation and Arrangement via a Hybrid Generative Model [paper](https://liuhaumin.github.io/LeadsheetArrangement/pdf/ismir2018leadsheetarrangement.pdf) | [code](https://github.com/liuhaumin/LeadsheetArrangement)
 
