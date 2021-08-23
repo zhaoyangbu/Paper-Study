@@ -7,7 +7,9 @@
 - [Format Reference](https://github.com/tigerneil/awesome-deep-rl/edit/master/README.md)
 
 ## Music Generation
-* Conditional Generative Adversarial Nets [arxiv](https://arxiv.org/pdf/1411.1784.pdf)| [code]()
+* Improved Training of Wasserstein GANs [arxiv](https://arxiv.org/pdf/1704.00028.pdf)
+* Wasserstein GAN [arxiv](https://arxiv.org/pdf/1701.07875.pdf)| [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
+* Conditional Generative Adversarial Nets [arxiv](https://arxiv.org/pdf/1411.1784.pdf)
 * MuseGAN:
 * MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS [paper](https://salu133445.github.io/musegan/pdf/musegan-ismir2017-lbd-paper.pdf)
 * MuseGAN: Multi-Track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment [paper](https://salu133445.github.io/musegan/pdf/musegan-aaai2018-paper.pdf) | [code](https://github.com/salu133445/musegan)
