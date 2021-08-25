@@ -7,7 +7,7 @@
 - [Online Audio to Lyric Alignment](#online-audio-to-lyric-alignment)
 - [Format Reference](https://github.com/tigerneil/awesome-deep-rl/edit/master/README.md)
 
-##GAN
+## GAN
 * Improved Training of Wasserstein GANs [arxiv](https://arxiv.org/pdf/1704.00028.pdf)
 * Wasserstein GAN [arxiv](https://arxiv.org/pdf/1701.07875.pdf)| [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
 * Conditional Generative Adversarial Nets [arxiv](https://arxiv.org/pdf/1411.1784.pdf)
